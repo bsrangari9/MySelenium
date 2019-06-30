@@ -1,1 +1,7 @@
-This is first file for my first repository
+This is first file for my first repository.
+
+Adding new line
+
+Adding second line
+
+Checking stage
