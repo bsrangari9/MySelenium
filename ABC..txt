@@ -5,3 +5,4 @@ Adding new line
 Adding second line
 
 Checking stage
+branch1--changes
